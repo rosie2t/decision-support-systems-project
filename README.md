@@ -6,10 +6,26 @@ real-life scenario. The corresponding report explains the methodology, results, 
 📁 Project Structure:
 /
 │-- README.md                   # Project documentation
-│-- Transformations_Optimization_Segmentation_Report.pdf  # Detailed report
+│-- DSS_Report.pdf  # Detailed report
 │-- code/                        # Folder with all Octave scripts
-│   │-- midrise.m                # Code for quantization
-│   │-- mse.m                    # Code for quantization
-│   │-- display_images.m         # Code for Displaying the images (In the Octave Command Prompt)
-│   │-- DCT.m                    
-│   │-- RDCT.m    
+│   │-- pairwise_MAUT.m               
+│   │-- utility.m                    
+│   │-- eigenmethod_MAUT.m         
+│   │-- MAUTscript.m                    
+│   │-- monte_carlo_sensitivity_MAUT.m
+│   │-- new_value_MAUT.m
+
+How to Run the Code:
+Install GNU Octave or use the online version!
+
+📜 Report:
+The full Decision Support Systems Report is included in this repository.
+
+🤝 Contributing:
+This project is for educational purposes. If you use this code, please provide attribution.
+
+Author: Rosie Manoli
+
+Course: Decision Support Systems
+
+University: Harokopio University
