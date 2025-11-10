@@ -1,9 +1,9 @@
 # decision-support-systems
-📌 Overview:
+Overview:
 This repository contains my university project on Decision Support Systems, implemented using GNU Octave. The project explores the simulation of Decision-Making Systems, based on a 
 real-life scenario. The corresponding report explains the methodology, results, and conclusions.
 
-📁 Project Structure:
+Project Structure:
 /
 │-- README.md                   # Project documentation
 │-- DSS_Report.pdf  # Detailed report
@@ -18,10 +18,10 @@ real-life scenario. The corresponding report explains the methodology, results, 
 How to Run the Code:
 Install GNU Octave or use the online version!
 
-📜 Report:
+Report:
 The full Decision Support Systems Report is included in this repository.
 
-🤝 Contributing:
+Contributing:
 This project is for educational purposes. If you use this code, please provide attribution.
 
 Author: Rosie Manoli
